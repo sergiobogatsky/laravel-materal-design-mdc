@@ -13,7 +13,9 @@ resources/sass/app.scss,
 resources/views
 
 All the installation of php classes and controllers made by command *php artisan ui type --auth*  
+
 ##Installation
+
 * clone the project
  ```bash
   git clone 
