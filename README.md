@@ -14,7 +14,7 @@ resources/views
 
 All the installation of php classes and controllers made by command *php artisan ui type --auth*  
 
-##Installation
+## Installation
 
 * clone the project
  ```bash
