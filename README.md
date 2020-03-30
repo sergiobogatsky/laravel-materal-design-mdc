@@ -32,7 +32,7 @@ All the installation of php classes and controllers made by command *php artisan
  ```bash
   php artisan migrate
   ``` 
-## printscreens
+## screenshots
 ![](storage/app/public/captura-login.PNG)
 
 ![](storage/app/public/captura-register.PNG)
