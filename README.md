@@ -18,6 +18,10 @@ All the installation of php classes and controllers made by command *php artisan
  ```bash
   git clone 
   ```
+* Generate app key
+ ```bash
+ php artisan key:generate
+ ``` 
 * run composer to install php dependencies
  ```bash
   composer install
