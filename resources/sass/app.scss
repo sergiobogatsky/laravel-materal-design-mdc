@@ -1,0 +1,25 @@
+// Fonts
+
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+
+@import "~material-components-web/material-components-web";
+
+
+
+// Variables
+//@import 'variables';
+/* Change the white to any color ;) */
+
+//color for snackbar for error message:
+.mdc-snackbar__surface-error {
+  background: orangered;
+}
+
+//all cards in project:
+.mdc-card {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 5%;
+  text-align: center
+}
