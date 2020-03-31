@@ -1,6 +1,6 @@
 # laravel-materal-design-mdc
 
-Laravel 7 Template on Material Design Components 5.1.0([material.io](https://material.io/)) with user authentication and registration with email confirmation.(php artisan ui type --auth)
+Laravel 7 Template on Material Design Components 5.1.0([material.io](https://material.io/)) with user authentication and registration with email confirmation.(php artisan ui type --auth) Try it on: http://laravel-materal-design-template-with-mdc.sergiobogatsky.com
 
 ![](storage/app/public/captura-welcome.PNG)
 
