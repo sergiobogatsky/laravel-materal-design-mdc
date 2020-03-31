@@ -61,7 +61,7 @@
         <div class="mdc-top-app-bar__row">
             <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
                 <button class="material-icons mdc-top-app-bar__navigation-icon mdc-icon-button">menu</button>
-                <span class="mdc-top-app-bar__title">Telegram Questionnaire</span>
+                <span class="mdc-top-app-bar__title">laravel-materal-design-mdc</span>
             </section>
         </div>
     </header>
